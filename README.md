@@ -75,16 +75,16 @@ NeuroWell/
 
 ---
 
-Why Choose NeuroWell?
+Why Choose NeuroWell?...
 Your mental well-being matters. NeuroWell offers a tech-assisted way to check in with yourself privately and reflect on your inner state.
 
 ---
 
 Future Plans:
 
-Export data to CSV or Excel
-Add graphs and visualizations
-Text-to-speech prompts
+Export data to CSV or Excel.
+Add graphs and visualizations.
+Text-to-speech prompts.
 GUI with buttons and dark mode.
 
 ---
