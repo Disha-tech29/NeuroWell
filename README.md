@@ -35,6 +35,11 @@ Run:
 It analyzes the log and creates a report in:
 log/report.txt
 
+💡 **To view the report:**
+- Open `log/report.txt` using Notepad or any text editor  
+- Or, run this command in PowerShell:
+  notepad log\report.txt
+
 ### 3. **Clean Old Logs**
 Run:
 .\clean_log.exe
